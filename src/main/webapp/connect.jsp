@@ -6,7 +6,7 @@
      
 
 	  	Class.forName("com.mysql.jdbc.Driver");	
-		connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/dsas","root","root");
+		connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/dsas","root","root123");
       	String sql="";
 
 	}
